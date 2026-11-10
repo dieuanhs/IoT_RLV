@@ -1,0 +1,9 @@
+# Bỏ qua tất cả các file video ở mọi thư mục
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.flv
+*.wmv
+
+output/*.mp4

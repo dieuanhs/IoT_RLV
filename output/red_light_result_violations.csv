@@ -1,0 +1,1 @@
+video,frame_id,timestamp,vehicle_id,vehicle_type,confidence,light_source,light_state,folder_light_label,violation,x,y,bbox_x1,bbox_y1,bbox_x2,bbox_y2,red_ratio,yellow_ratio,green_ratio,crop_path,frame_path
