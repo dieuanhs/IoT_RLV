@@ -28,6 +28,7 @@ IoT_RedLightViolation/
 ├── 1108.mov                 # Video đầu vào (được cấu hình trong code hoặc truyền vào tham số)
 ├── .gitignore               # Cấu hình bỏ qua các file không cần thiết lên Git
 └── output/                  # Thư mục lưu kết quả (video xử lý và file CSV)
+
 🚀 Hướng dẫn chạy chương trình
 1. Chạy với tham số mặc định
    ```bash
