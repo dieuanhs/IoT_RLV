@@ -21,6 +21,7 @@ Hệ thống tự động phát hiện lỗi vượt đèn đỏ từ video giao
    ```bash
    pip install -r requirements.txt
 ## Cấu trúc thư mục
+```text
 IoT_RedLightViolation/
 │
 ├── main.py                  # File mã nguồn chính của chương trình
