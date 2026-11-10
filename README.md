@@ -30,6 +30,7 @@ IoT_RedLightViolation/
 ├── .gitignore               # Cấu hình bỏ qua các file không cần thiết lên Git
 └── output/                  # Thư mục lưu kết quả (video xử lý và file CSV)
 
+```
 🚀 Hướng dẫn chạy chương trình
 1. Chạy với tham số mặc định
    ```bash
