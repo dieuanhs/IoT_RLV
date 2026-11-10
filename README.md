@@ -31,6 +31,8 @@ IoT_RedLightViolation/
 └── output/                  # Thư mục lưu kết quả (video xử lý và file CSV)
 
 ```
+link dataset: https://drive.google.com/drive/folders/1bobFMAC5d2pdW05FNcHEPxD_eXbHUHuF?usp=sharing
+
 🚀 Hướng dẫn chạy chương trình
 1. Chạy với tham số mặc định
    ```bash
